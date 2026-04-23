@@ -1,4 +1,4 @@
-# Android studio Kotlin clone of instagram reels pag
+# Android studio Kotlin clone of instagram reels page
 
 ## Functionalities
 
